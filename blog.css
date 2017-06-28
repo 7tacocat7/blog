@@ -7,10 +7,16 @@ body{
   background-color: green;
   font-family: fantasy;
   font-size: 14;
+
 }
 h2 {
   color: yellow;
   font-family: monospace;
   font-size: 20;
   border: 3px solid purple;
+  margin-bottom: 35px;
+}
+
+h1{
+  margin-top: 50px;
 }
