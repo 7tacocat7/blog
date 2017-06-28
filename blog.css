@@ -1,0 +1,10 @@
+body{
+  background-color: teal;
+  font-family: serif;
+  font-weight: 300;
+}
+.paragraph {
+  background-color: green;
+  font-family: fantasy;
+  font-size: 14;
+}
